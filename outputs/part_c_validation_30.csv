@@ -1,0 +1,38 @@
+review_id,order_id,review_comment_message,groq_category,groq_summary,manual_category,correct
+e64fb393e7b32834bb789ff8bb30750e,658677c97b385a9be170737859d3511b,Recebi bem antes do prazo estipulado.,good experience,Received earlier than expected.,,
+f7c4243c7fe1938f181bec41a392bdeb,8e6bfb81e283fa7e4f11123a3fb894f1,Parabéns lojas lannister adorei comprar pela Internet seguro e prático Parabéns a todos feliz Páscoa,good experience,Positive online purchase experience.,,
+8670d52e15e00043ae7de4c01cc2fe06,b9bf720beb4ab3728760088589c62129,aparelho eficiente. no site a marca do aparelho esta impresso como 3desinfector e ao chegar esta com outro nome...atualizar com a marca correta uma vez que é o mesmo aparelho,wrong/missing item,Brand mismatch on delivered device.,,
+4b49719c8a200003f700d3d986ea1a19,9d6f15f95d01e79bd1349cc208361f09,"Mas um pouco ,travando...pelo valor ta Boa.
+",product quality,"Device freezes, but acceptable price.",,
+3948b09f7c818e2d86c9a546758b2335,e51478e7e277a83743b6f9991dbfa3fb,"Vendedor confiável, produto ok e entrega antes do prazo.",good experience,"Reliable seller, on-time delivery.",,
+9314d6f9799f5bfba510cc7bcd468c01,0dacf04c5ad59fd5a0cc1faa07c34e39,"GOSTARIA DE SABER O QUE HOUVE, SEMPRE RECEBI E ESSA COMPRA AGORA ME DECPCIONOU",late/not received,"Customer wonders why this order was not received, unlike previous ones.",,
+373cbeecea8286a2b66c97b1b157ec46,583174fbe37d3d5f0d6661be3aad1786,Péssimo,other,Customer expresses dissatisfaction with the purchase.,,
+d21bbc789670eab777d27372ab9094cc,4fc44d78867142c627497b60a7e0228a,Loja nota 10,good experience,Customer gives the store a perfect rating.,,
+0e0190b9db53b689b285d3f3916f8441,79832b7cb59ac6f887088ffd686e1d5e,obrigado pela atençao amim dispensada,good experience,Customer thanks for the assistance received.,,
+fe3db7c069d694bab50cc43463f91608,2ca73e2ff9e3a186ad1e1ffb9b1d9c10,"A compra foi realizada facilmente.
+A entrega foi efetuada muito antes do prazo dado.
+O produto já começou a ser usado e até o presente,
+sem problemas.",good experience,"Customer praises easy purchase, early delivery, and product quality.",,
+e07eee7ad7666276bd8b27fbd83fd1ff,68b3cbc68e4cd1fe19bec35f1d3bb7ee,relógio muito bonito e barato.,product quality,Watch is very pretty and cheap.,,
+2c5e27fc178bde7ac173c9c62c31b070,0ce9a24111d850192a933fcaab6fbad3,Não gostei ! Comprei gato por lebre,wrong/missing item,Received wrong item.,,
+58044bca115705a48fe0e00a21390c54,68e55ca79d04a79f20d4bfc0146f4b66,"Sempre compro pela Internet e a entrega ocorre antes do prazo combinado, que acredito ser o prazo máximo. No stark o prazo máximo já se esgotou e ainda não recebi o produto.",late/not received,Product not received after deadline.,,
+c92cdd7dd544a01aa35137f901669cdf,37e7875cdce5a9e5b3a692971f370151,"Recebi exatamente o que esperava. As demais encomendas de outros vendedores atrasaram, mas esta chegou no prazo.",good experience,Received as expected and on time.,,
+08c9d79ec0eba1d252e3f52f14b8e6a9,e029f708df3cc108b3264558771605c6,"Recomendo ,",good experience,Recommend the product.,,
+2170c9452c2216457b36003fe2969fbb,af32671d0b8ce510a94d9111d97371d3,muito boa ,product quality,Positive comment about product quality.,,
+b193ff3c9f32a01f3a0d9ae26b94d244,e2e6ee1ed2d7f2f36b05d234983bd7a0,"Tô completamente apaixonada, loja super responsável e confiável!",good experience,Positive review praising store reliability.,,
+9fd59cd04b42f600df9f25e54082a8d1,3c314f50bc654f3c4e317b055681dff9,Nada de chegar o meu pedido.,late/not received,Order has not arrived.,,
+86c5cfa7fcbde303f704b60a78ced7d6,a6456e781cb962cc3f412b04de4fed7b,Muito bom. muito cheiroso.,product quality,Positive product quality comment.,,
+890ec1767be8eb104877db6d68eaade5,b3271f5ebce80cbecb67c5b88487a44a,"otimo vendedor chegou ate antes do prazo , adorei o produto",good experience,Positive review about early delivery and product.,,
+7d9ac3e98adc0c8ad579e6a2257d79f9,dfa48852c93427261c98fb2e01f33bea,Processo de compra tranquilo e eficiente.,good experience,Smooth and efficient purchase process.,,
+c41bd21983e298a240410ebb391bf075,9562b424b05978a493db2a5122ecab1f,Tomara q dure pois é de pelinho.,product quality,Hope it lasts due to fur material.,,
+e233e51d11511bf30e568c76360ace52,548df2c6e5f089574614894bca78acf5,"recebi somente 1 controle Midea Split ESTILO.
+Faltou Controle Remoto para Ar Condicionado Consul",wrong/missing item,Received only one controller; remote missing.,,
+3d94fd645cdaacc8c9f0dc0a2a1f5166,4d483bf690ca21bdc005df9b623673c7,boa,good experience,Positive feedback.,,
+500c05500aa275953129f49799ee5c73,8a9424899aac432d80d8e580932b5ee9,MT lindo,good experience,Very nice product.,,
+6a0969d0769d2f3ff6438809a1cc455e,32638fbca8d1a197e649fd5138e12049,"Ocorreu tudo como contratado sendo a entrega realizada antes do prazo 
+ Estou satisfeita
+",good experience,"Delivery met expectations and arrived early, satisfied.",,
+8a64945e89526e68bc16383391590232,71960e6af960919256a958a3633e1040,"Amei achei lindo ,muito delicado adorei",product quality,"Loved the product, found it beautiful and delicate.",,
+c0dbf9a325d2a2fece43873be47191e1,b324f4270850cbba23533b9a9d3434a9,"Ótima loja para parceria: rápidíssima, produtos bem embalados e de qualidade! Só o custo do frete que foi meio azedo.",good experience,"Fast delivery, well-packaged quality products, but shipping cost high.",,
+109b5ce2dd11bb8460eff3b86da6fefc,25362fbf6aac4b01a28dee1e076acc26,Recomendo o vendedor... ,good experience,Recommends the seller.,,
+6d06808638ec0701bccd70bc8d462c28,97d2f8fe76f2f253b8291e17b5383884,"O produto não chegou no prazo estipulado e causou transtorno, pq programei a viagem de férias do meu filho, baseado no prazo. Moro na Bahia e ele em Cuiabá sozinho. Agora, a casa está vazia. ",late/not received,"Product arrived late, causing travel disruption.",,

@@ -1,0 +1,202 @@
+[
+  {
+    "batch_start": 1,
+    "batch_end": 5,
+    "raw_output": "[\n  {\n    \"review_id\": \"e64fb393e7b32834bb789ff8bb30750e\",\n    \"category\": \"good experience\",\n    \"summary\": \"Received earlier than expected.\"\n  },\n  {\n    \"review_id\": \"f7c4243c7fe1938f181bec41a392bdeb\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive online purchase experience.\"\n  },\n  {\n    \"review_id\": \"8670d52e15e00043ae7de4c01cc2fe06\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Brand mismatch on delivered device.\"\n  },\n  {\n    \"review_id\": \"4b49719c8a200003f700d3d986ea1a19\",\n    \"category\": \"product quality\",\n    \"summary\": \"Device freezes, but acceptable price.\"\n  },\n  {\n    \"review_id\": \"3948b09f7c818e2d86c9a546758b2335\",\n    \"category\": \"good experience\",\n    \"summary\": \"Reliable seller, on-time delivery.\"\n  }\n]"
+  },
+  {
+    "batch_start": 6,
+    "batch_end": 10,
+    "raw_output": "[\n  {\n    \"review_id\": \"9314d6f9799f5bfba510cc7bcd468c01\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Customer wonders why this order was not received, unlike previous ones.\"\n  },\n  {\n    \"review_id\": \"373cbeecea8286a2b66c97b1b157ec46\",\n    \"category\": \"other\",\n    \"summary\": \"Customer expresses dissatisfaction with the purchase.\"\n  },\n  {\n    \"review_id\": \"d21bbc789670eab777d27372ab9094cc\",\n    \"category\": \"good experience\",\n    \"summary\": \"Customer gives the store a perfect rating.\"\n  },\n  {\n    \"review_id\": \"0e0190b9db53b689b285d3f3916f8441\",\n    \"category\": \"good experience\",\n    \"summary\": \"Customer thanks for the assistance received.\"\n  },\n  {\n    \"review_id\": \"fe3db7c069d694bab50cc43463f91608\",\n    \"category\": \"good experience\",\n    \"summary\": \"Customer praises easy purchase, early delivery, and product quality.\"\n  }\n]"
+  },
+  {
+    "batch_start": 11,
+    "batch_end": 15,
+    "raw_output": "[\n  {\n    \"review_id\": \"e07eee7ad7666276bd8b27fbd83fd1ff\",\n    \"category\": \"product quality\",\n    \"summary\": \"Watch is very pretty and cheap.\"\n  },\n  {\n    \"review_id\": \"2c5e27fc178bde7ac173c9c62c31b070\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received wrong item.\"\n  },\n  {\n    \"review_id\": \"58044bca115705a48fe0e00a21390c54\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Product not received after deadline.\"\n  },\n  {\n    \"review_id\": \"c92cdd7dd544a01aa35137f901669cdf\",\n    \"category\": \"good experience\",\n    \"summary\": \"Received as expected and on time.\"\n  },\n  {\n    \"review_id\": \"08c9d79ec0eba1d252e3f52f14b8e6a9\",\n    \"category\": \"good experience\",\n    \"summary\": \"Recommend the product.\"\n  }\n]"
+  },
+  {
+    "batch_start": 16,
+    "batch_end": 20,
+    "raw_output": "[\n  {\n    \"review_id\": \"2170c9452c2216457b36003fe2969fbb\",\n    \"category\": \"product quality\",\n    \"summary\": \"Positive comment about product quality.\"\n  },\n  {\n    \"review_id\": \"b193ff3c9f32a01f3a0d9ae26b94d244\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review praising store reliability.\"\n  },\n  {\n    \"review_id\": \"9fd59cd04b42f600df9f25e54082a8d1\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Order has not arrived.\"\n  },\n  {\n    \"review_id\": \"86c5cfa7fcbde303f704b60a78ced7d6\",\n    \"category\": \"product quality\",\n    \"summary\": \"Positive product quality comment.\"\n  },\n  {\n    \"review_id\": \"890ec1767be8eb104877db6d68eaade5\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review about early delivery and product.\"\n  }\n]"
+  },
+  {
+    "batch_start": 21,
+    "batch_end": 25,
+    "raw_output": "[\n  {\n    \"review_id\": \"7d9ac3e98adc0c8ad579e6a2257d79f9\",\n    \"category\": \"good experience\",\n    \"summary\": \"Smooth and efficient purchase process.\"\n  },\n  {\n    \"review_id\": \"c41bd21983e298a240410ebb391bf075\",\n    \"category\": \"product quality\",\n    \"summary\": \"Hope it lasts due to fur material.\"\n  },\n  {\n    \"review_id\": \"e233e51d11511bf30e568c76360ace52\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received only one controller; remote missing.\"\n  },\n  {\n    \"review_id\": \"3d94fd645cdaacc8c9f0dc0a2a1f5166\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive feedback.\"\n  },\n  {\n    \"review_id\": \"500c05500aa275953129f49799ee5c73\",\n    \"category\": \"good experience\",\n    \"summary\": \"Very nice product.\"\n  }\n]"
+  },
+  {
+    "batch_start": 26,
+    "batch_end": 30,
+    "raw_output": "[\n  {\n    \"review_id\": \"6a0969d0769d2f3ff6438809a1cc455e\",\n    \"category\": \"good experience\",\n    \"summary\": \"Delivery met expectations and arrived early, satisfied.\"\n  },\n  {\n    \"review_id\": \"8a64945e89526e68bc16383391590232\",\n    \"category\": \"product quality\",\n    \"summary\": \"Loved the product, found it beautiful and delicate.\"\n  },\n  {\n    \"review_id\": \"c0dbf9a325d2a2fece43873be47191e1\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast delivery, well-packaged quality products, but shipping cost high.\"\n  },\n  {\n    \"review_id\": \"109b5ce2dd11bb8460eff3b86da6fefc\",\n    \"category\": \"good experience\",\n    \"summary\": \"Recommends the seller.\"\n  },\n  {\n    \"review_id\": \"6d06808638ec0701bccd70bc8d462c28\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Product arrived late, causing travel disruption.\"\n  }\n]"
+  },
+  {
+    "batch_start": 31,
+    "batch_end": 35,
+    "raw_output": "[\n  {\n    \"review_id\": \"750d4311e8ddb6cba549ee86f06f0cca\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product delivered quickly and as requested.\"\n  },\n  {\n    \"review_id\": \"8b230a1373c6dc4bd867099fda1d7039\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received only one of two purchased items.\"\n  },\n  {\n    \"review_id\": \"cb2fc3e5711b5ae85e49a1ee18af63ed\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Item received does not match advertised photo.\"\n  },\n  {\n    \"review_id\": \"60c714ed14cef913944a3147094a4742\",\n    \"category\": \"product quality\",\n    \"summary\": \"Poor quality and workmanship.\"\n  },\n  {\n    \"review_id\": \"c45811d9f90e22a81155b3a1e4a5c2e8\",\n    \"category\": \"good experience\",\n    \"summary\": \"Beautiful kit, great for grandchild.\"\n  }\n]"
+  },
+  {
+    "batch_start": 36,
+    "batch_end": 40,
+    "raw_output": "[\n  {\n    \"review_id\": \"e29ab4a671400c41322e4855de633c6a\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review praising product.\"\n  },\n  {\n    \"review_id\": \"0bd4dcc4f6c4621baf37f73495cad8c4\",\n    \"category\": \"good experience\",\n    \"summary\": \"Delivery on time.\"\n  },\n  {\n    \"review_id\": \"888f11883ff85fa5c07e6ae1192d85c4\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fulfilled promise with satisfactory delivery.\"\n  },\n  {\n    \"review_id\": \"65dfeb60c40e3cbb0a1838285d86f885\",\n    \"category\": \"other\",\n    \"summary\": \"Refund request not responded.\"\n  },\n  {\n    \"review_id\": \"50a1eaa2f96d6f3e02d0cd68d92bab75\",\n    \"category\": \"good experience\",\n    \"summary\": \"Very fast delivery.\"\n  }\n]"
+  },
+  {
+    "batch_start": 41,
+    "batch_end": 45,
+    "raw_output": "[\n  {\n    \"review_id\": \"436f71c9cc0c1aab7f51dc0cd0820516\",\n    \"category\": \"good experience\",\n    \"summary\": \"Satisfied with the purchase.\"\n  },\n  {\n    \"review_id\": \"97d4feff1fd7129bee6cde095b9dac2a\",\n    \"category\": \"good experience\",\n    \"summary\": \"Pleased with early delivery and service.\"\n  },\n  {\n    \"review_id\": \"1692078634b63c7f25aa90ee746ec498\",\n    \"category\": \"good experience\",\n    \"summary\": \"Recommends product.\"\n  },\n  {\n    \"review_id\": \"ff722b4c68783a4459a3adb9bb4e1d0d\",\n    \"category\": \"product quality\",\n    \"summary\": \"Product arrived but USB ports not recognized.\"\n  },\n  {\n    \"review_id\": \"8055e963f26f70c406ca517b2c2848e6\",\n    \"category\": \"good experience\",\n    \"summary\": \"High quality product delivered early.\"\n  }\n]"
+  },
+  {
+    "batch_start": 46,
+    "batch_end": 50,
+    "raw_output": "[\n  {\n    \"review_id\": \"ae728c1061bf163b4bd256ad9ee0bb83\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Item not delivered.\"\n  },\n  {\n    \"review_id\": \"41926e45719f9b923357ea3bb222195f\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast delivery, praised.\"\n  },\n  {\n    \"review_id\": \"72730619a00e0ecdecf0a4ff862d8996\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received only two of three packages.\"\n  },\n  {\n    \"review_id\": \"c5d83c2523ef15209c8faf5133a7bafb\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Missing product received today.\"\n  },\n  {\n    \"review_id\": \"766fc608e4f2683020fb0a121d9db23e\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product as advertised, fast delivery.\"\n  }\n]"
+  },
+  {
+    "batch_start": 51,
+    "batch_end": 55,
+    "raw_output": "[\n  {\n    \"review_id\": \"5c37d7ba6ef2f031c34bb4fda3454018\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Delivery took too long.\"\n  },\n  {\n    \"review_id\": \"83414f98136ce687f7eb69e555b2519c\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast delivery, arrived earlier than expected.\"\n  },\n  {\n    \"review_id\": \"46d8249ea59101c7288936c3e6f155d7\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Delivery split into two, no communication, seemed only part of product sent.\"\n  },\n  {\n    \"review_id\": \"346317f9aff540395fe46893611854f8\",\n    \"category\": \"product quality\",\n    \"summary\": \"Product doesn't work or sync.\"\n  },\n  {\n    \"review_id\": \"2685a4800004a12ec09d27264ff1915f\",\n    \"category\": \"good experience\",\n    \"summary\": \"Highly recommend to all customers.\"\n  }\n]"
+  },
+  {
+    "batch_start": 56,
+    "batch_end": 60,
+    "raw_output": "[\n  {\n    \"review_id\": \"c422274e50e900b46fee429016c5458d\",\n    \"category\": \"good experience\",\n    \"summary\": \"Liked the product.\"\n  },\n  {\n    \"review_id\": \"3f6d9482c57cdb5fc7012f7b9b5ed4c5\",\n    \"category\": \"good experience\",\n    \"summary\": \"Great product.\"\n  },\n  {\n    \"review_id\": \"a55012f5c7e74353e92986be15d133b6\",\n    \"category\": \"product quality\",\n    \"summary\": \"Liked the bath set's design and quality.\"\n  },\n  {\n    \"review_id\": \"487f8ff16eaf366dc7c01652202048c3\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Only one piece arrived, missing one jewel.\"\n  },\n  {\n    \"review_id\": \"ef8ae544c432bb1053ba5990bd0d6227\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Did not receive product, system says received.\"\n  }\n]"
+  },
+  {
+    "batch_start": 61,
+    "batch_end": 65,
+    "raw_output": "[\n  {\n    \"review_id\": \"aaab917291fea34988b9a0cb60e0716f\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received wrong gender watch, smaller than advertised.\"\n  },\n  {\n    \"review_id\": \"3f73914ab5fc1cd68ad6757c93644349\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review praising the online store.\"\n  },\n  {\n    \"review_id\": \"e2fd85e5df711bd91e6e96e13c741843\",\n    \"category\": \"product quality\",\n    \"summary\": \"Excellent product quality.\"\n  },\n  {\n    \"review_id\": \"42ae74a43661be8587b2e2db054179db\",\n    \"category\": \"good experience\",\n    \"summary\": \"Great value for money.\"\n  },\n  {\n    \"review_id\": \"d8f61c7fcd172785563a65cd65a8cea8\",\n    \"category\": \"other\",\n    \"summary\": \"Neutral review.\"\n  }\n]"
+  },
+  {
+    "batch_start": 66,
+    "batch_end": 70,
+    "raw_output": "[\n  {\n    \"review_id\": \"79927442ebcbf70b2021e1339bb9a51b\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive feedback on delivery service.\"\n  },\n  {\n    \"review_id\": \"14613df954694f243dedeaa2c8a3a5c2\",\n    \"category\": \"product quality\",\n    \"summary\": \"Item arrived damaged due to poor packaging.\"\n  },\n  {\n    \"review_id\": \"5f938e5f5f2e9a75710b54feeb9ea610\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Item did not fit.\"\n  },\n  {\n    \"review_id\": \"d7ea05bb4f9c77d606fd90b1a27e317d\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Delivery delayed, not received.\"\n  },\n  {\n    \"review_id\": \"185cb85ede91009d7a8e685687c037ee\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Product not received after 30 days.\"\n  }\n]"
+  },
+  {
+    "batch_start": 71,
+    "batch_end": 75,
+    "raw_output": "[\n  {\n    \"review_id\": \"0c9b6ca9b3beaf0fd5d621f63844ea01\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Customer expects delivery this week and worries about further delay.\"\n  },\n  {\n    \"review_id\": \"c399eafa15aafaecdd1d9008f5b34ed6\",\n    \"category\": \"good experience\",\n    \"summary\": \"Customer received the order on time and is happy.\"\n  },\n  {\n    \"review_id\": \"8ef36616bef00398b6e413c124f436c8\",\n    \"category\": \"product quality\",\n    \"summary\": \"Customer loves the beautiful watch.\"\n  },\n  {\n    \"review_id\": \"57e994485c2ebd293e4fa9cd62e5bb96\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Customer received only one of two ordered pendants and has not received a response.\"\n  },\n  {\n    \"review_id\": \"59d95e0b5b52d038dc3a022b7c912969\",\n    \"category\": \"product quality\",\n    \"summary\": \"Customer praises the high quality.\"\n  }\n]"
+  },
+  {
+    "batch_start": 76,
+    "batch_end": 80,
+    "raw_output": "[\n  {\n    \"review_id\": \"a0adf7a439816b22050d6bf433cbbff6\",\n    \"category\": \"good experience\",\n    \"summary\": \"Nice product delivered on time, highly recommended.\"\n  },\n  {\n    \"review_id\": \"93fbbe62dcf6ffac99be013a1c68eb52\",\n    \"category\": \"good experience\",\n    \"summary\": \"Very good product.\"\n  },\n  {\n    \"review_id\": \"c40a6b6e0181e5ec0d12cbc2e12c49d3\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Missing item and one broken.\"\n  },\n  {\n    \"review_id\": \"5241fcad10d7b45a1761f1e1e1536faa\",\n    \"category\": \"good experience\",\n    \"summary\": \"Arrived on time, excellent quality, relieved back pain.\"\n  },\n  {\n    \"review_id\": \"06f47dacd0575e592bf6a17e922ce6cd\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Product not received yet.\"\n  }\n]"
+  },
+  {
+    "batch_start": 81,
+    "batch_end": 85,
+    "raw_output": "[\n  {\n    \"review_id\": \"d36219dfadc3a5b07ab66670d23915ad\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive overall experience despite tracking issues.\"\n  },\n  {\n    \"review_id\": \"5230dc021b8ce3fe53ed728af873a6d1\",\n    \"category\": \"other\",\n    \"summary\": \"No experience yet, hasn't tested product.\"\n  },\n  {\n    \"review_id\": \"4656b8ed41c17f6be05e911e211ecd8f\",\n    \"category\": \"other\",\n    \"summary\": \"Just started using product.\"\n  },\n  {\n    \"review_id\": \"8ef0597f9b1870cf46c81358425f0e24\",\n    \"category\": \"other\",\n    \"summary\": \"No comments.\"\n  },\n  {\n    \"review_id\": \"6b341682ab39af9fa00d72d7388c903b\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received wrong item inside.\"\n  }\n]"
+  },
+  {
+    "batch_start": 86,
+    "batch_end": 90,
+    "raw_output": "[\n  {\n    \"review_id\": \"e4f0765c572989acb3d2d17c911ccce4\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast delivery.\"\n  },\n  {\n    \"review_id\": \"557ae9c16a8ea3909db2fc5a01bc5151\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Delayed delivery of some items.\"\n  },\n  {\n    \"review_id\": \"5939898b5d2ac05454b2fe1aeecaad19\",\n    \"category\": \"product quality\",\n    \"summary\": \"Good quality product.\"\n  },\n  {\n    \"review_id\": \"cde97e23deec3aa11e838402378706ee\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Awaiting product arrival.\"\n  },\n  {\n    \"review_id\": \"3ff8285931cc9b54c9ad22ba78957f63\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Missing one of two purchased items.\"\n  }\n]"
+  },
+  {
+    "batch_start": 91,
+    "batch_end": 95,
+    "raw_output": "[\n  {\n    \"review_id\": \"fdb0e5a14fb6456e28ce7b3b054b8843\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Delivery was almost a month late, so not recommended.\"\n  },\n  {\n    \"review_id\": \"7914fa319f12631679d1704d7dcd17df\",\n    \"category\": \"good experience\",\n    \"summary\": \"Recommends the store.\"\n  },\n  {\n    \"review_id\": \"deb6f26fd2c11c556bc9245fd9203469\",\n    \"category\": \"good experience\",\n    \"summary\": \"Met expectations.\"\n  },\n  {\n    \"review_id\": \"6591adaa3a855d13090d5fd151ad96c2\",\n    \"category\": \"good experience\",\n    \"summary\": \"Delivered early and product is practical.\"\n  },\n  {\n    \"review_id\": \"c4a20a1d2d634f814cca9311edd60e99\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Great product but manual missing.\"\n  }\n]"
+  },
+  {
+    "batch_start": 96,
+    "batch_end": 100,
+    "raw_output": "[\n  {\n    \"review_id\": \"81e7291e2f92b492eb0340f4406c6897\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Piece had wrong diameter and required modification.\"\n  },\n  {\n    \"review_id\": \"eb6d75bedecae7b3dbea11b8530637d8\",\n    \"category\": \"good experience\",\n    \"summary\": \"Excellent product.\"\n  },\n  {\n    \"review_id\": \"593f9b33c3a4c74e37b7b7c49f0cedc4\",\n    \"category\": \"good experience\",\n    \"summary\": \"Everything is fine.\"\n  },\n  {\n    \"review_id\": \"a36150969fe6bd09ed011dd78aeb0189\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Delivery delay and poor service.\"\n  },\n  {\n    \"review_id\": \"2c303fb6b2f9c16f324f7deb88e736fe\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product very good.\"\n  }\n]"
+  },
+  {
+    "batch_start": 101,
+    "batch_end": 105,
+    "raw_output": "[\n  {\n    \"review_id\": \"43992f6d75ecc01ddd8c748b9362bc81\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Product hasn't arrived, tracking stuck in Ribeirão Preto.\"\n  },\n  {\n    \"review_id\": \"8b4c14417bccab81710772ecb8b23fd6\",\n    \"category\": \"product quality\",\n    \"summary\": \"Product defective on first use.\"\n  },\n  {\n    \"review_id\": \"3528296df9092b7a7b88bd036e3f8a8e\",\n    \"category\": \"good experience\",\n    \"summary\": \"Highly recommends professional quality product.\"\n  },\n  {\n    \"review_id\": \"252b934455d29ca8cc070504686ecc52\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Product not received yet.\"\n  },\n  {\n    \"review_id\": \"b736ff4204044e49e39062584d06fa74\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received a different product than advertised.\"\n  }\n]"
+  },
+  {
+    "batch_start": 106,
+    "batch_end": 110,
+    "raw_output": "[\n  {\n    \"review_id\": \"c7475b2c4448321756b6136327f1394e\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast delivery and satisfied with product.\"\n  },\n  {\n    \"review_id\": \"44cdb9cb9c9f8d6bcea59e0b61b8df6a\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product arrived in good condition.\"\n  },\n  {\n    \"review_id\": \"927eaaaaeebc8579c91927f2d0b40049\",\n    \"category\": \"good experience\",\n    \"summary\": \"Excellent product.\"\n  },\n  {\n    \"review_id\": \"65b934c20d632fc2df0fd4723464fa78\",\n    \"category\": \"other\",\n    \"summary\": \"Box was swapped, but product was correct; system down when trying to complain.\"\n  },\n  {\n    \"review_id\": \"af9e54a155c1248534f1fa60179c6393\",\n    \"category\": \"good experience\",\n    \"summary\": \"Very satisfied with purchase.\"\n  }\n]"
+  },
+  {
+    "batch_start": 111,
+    "batch_end": 115,
+    "raw_output": "[\n  {\n    \"review_id\": \"ea12cd666e65ef6cfc48e7ddd8596833\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Praises store but notes delay.\"\n  },\n  {\n    \"review_id\": \"8023f946d9b261cb0ecb604703427917\",\n    \"category\": \"good experience\",\n    \"summary\": \"Delivered on time with good shelf life.\"\n  },\n  {\n    \"review_id\": \"4faa35770cc4dbf5f2725bcebdd1bdc6\",\n    \"category\": \"good experience\",\n    \"summary\": \"Loved the towel set, even prettier than photos.\"\n  },\n  {\n    \"review_id\": \"c239d18d7e310e477d5e7b76b362db1d\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Handle missing a fixation pin.\"\n  },\n  {\n    \"review_id\": \"b3df5ccdfff218d039dd166e3da759f5\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Delivery delayed, tracking misled.\"\n  }\n]"
+  },
+  {
+    "batch_start": 116,
+    "batch_end": 120,
+    "raw_output": "[\n  {\n    \"review_id\": \"c11da18223114c483b887b9914045f79\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Product takes almost 30 business days to arrive, shipping is expensive.\"\n  },\n  {\n    \"review_id\": \"6f885e2fd69412264d9e74e805175d53\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received wrong product, different model and color.\"\n  },\n  {\n    \"review_id\": \"b83ba2a97932a8a661f5bf8eac7642bd\",\n    \"category\": \"good experience\",\n    \"summary\": \"Satisfied with purchases from Stark.\"\n  },\n  {\n    \"review_id\": \"a6c58307ee35180cf0dc1d39466db359\",\n    \"category\": \"good experience\",\n    \"summary\": \"Purchase went smoothly, grateful and trusting.\"\n  },\n  {\n    \"review_id\": \"f7eb8792e67d53e01a224bfa9b6802b2\",\n    \"category\": \"other\",\n    \"summary\": \"Order cancelled before delivery, unclear about charges.\"\n  }\n]"
+  },
+  {
+    "batch_start": 121,
+    "batch_end": 125,
+    "raw_output": "[\n  {\n    \"review_id\": \"4940d39efaa50e020312724f6a6e5efa\",\n    \"category\": \"good experience\",\n    \"summary\": \"High quality product and early delivery, recommended.\"\n  },\n  {\n    \"review_id\": \"7bd303edd3865abe8addb98d2a2e6577\",\n    \"category\": \"good experience\",\n    \"summary\": \"Good product delivered on time in 8 days, praised.\"\n  },\n  {\n    \"review_id\": \"11caa17c5966423a2f73ded6a13ad638\",\n    \"category\": \"good experience\",\n    \"summary\": \"Everything fine, reliable deliveries.\"\n  },\n  {\n    \"review_id\": \"4dd68a0dee5ede8a445f797c46bca436\",\n    \"category\": \"product quality\",\n    \"summary\": \"Finish differed from photo, synthetic and blurry, unsatisfied.\"\n  },\n  {\n    \"review_id\": \"f55ac350831de6694d569e9c0176dacd\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Three items arrived separately on different dates, not together.\"\n  }\n]"
+  },
+  {
+    "batch_start": 126,
+    "batch_end": 130,
+    "raw_output": "[\n  {\n    \"review_id\": \"2b4a570df87cd63b232272dd9dcac0cf\",\n    \"category\": \"other\",\n    \"summary\": \"Review content unclear.\"\n  },\n  {\n    \"review_id\": \"3fb929ba2924ff0a47858efb007ceee1\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast delivery praised.\"\n  },\n  {\n    \"review_id\": \"d0c2b9d96c387604a96ae43e7126cf9b\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive experience.\"\n  },\n  {\n    \"review_id\": \"58b27f28e98acdaec89d736d8ed79dd5\",\n    \"category\": \"good experience\",\n    \"summary\": \"Correct item delivered on time.\"\n  },\n  {\n    \"review_id\": \"96ee030286f50f61c6d199bdfaa5573d\",\n    \"category\": \"product quality\",\n    \"summary\": \"Very bad product quality.\"\n  }\n]"
+  },
+  {
+    "batch_start": 131,
+    "batch_end": 135,
+    "raw_output": "[\n  {\n    \"review_id\": \"6280ca6a9e8c3a56b668ec8c5396caaf\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Delivery was later than expected.\"\n  },\n  {\n    \"review_id\": \"968989a3b5192c9b9436fe7546acaca4\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received incorrect quantity of capsules.\"\n  },\n  {\n    \"review_id\": \"dc92cf357f5eb4d61b6a95fed53d17e1\",\n    \"category\": \"good experience\",\n    \"summary\": \"Delivered earlier than expected, great experience.\"\n  },\n  {\n    \"review_id\": \"382d855ffdd4f5e66594dbfb1566e96f\",\n    \"category\": \"good experience\",\n    \"summary\": \"Satisfied with honesty and service.\"\n  },\n  {\n    \"review_id\": \"06aa3111724159bb69b8568181ec05c4\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast delivery and good purchase experience.\"\n  }\n]"
+  },
+  {
+    "batch_start": 136,
+    "batch_end": 140,
+    "raw_output": "[\n  {\n    \"review_id\": \"3db041dd46e9935752c691a2093799c2\",\n    \"category\": \"product quality\",\n    \"summary\": \"Product not recommended, poor quality.\"\n  },\n  {\n    \"review_id\": \"9ad64902b6c9bfad48bbe4d17e4dcb4b\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast delivery, praised.\"\n  },\n  {\n    \"review_id\": \"6aba6ff5d6b3f6762a2ad9a9f1fbdfcf\",\n    \"category\": \"good experience\",\n    \"summary\": \"Fast and efficient service.\"\n  },\n  {\n    \"review_id\": \"8f9aa50ee40780ba3f79614530a34ebe\",\n    \"category\": \"good experience\",\n    \"summary\": \"Wonderful product and fast delivery.\"\n  },\n  {\n    \"review_id\": \"f3f77d01a24ce4da52b6f7e83e71498d\",\n    \"category\": \"other\",\n    \"summary\": \"Unable to cancel or return product, no response.\"\n  }\n]"
+  },
+  {
+    "batch_start": 141,
+    "batch_end": 145,
+    "raw_output": "[\n  {\n    \"review_id\": \"2fe0ca8fe19ae1ab68408a1235bbd054\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product arrived today, no comments.\"\n  },\n  {\n    \"review_id\": \"b396ba75350276a6cc1993b6627dceea\",\n    \"category\": \"product quality\",\n    \"summary\": \"Defective watch, unsatisfied with product quality.\"\n  },\n  {\n    \"review_id\": \"610a49f3e897c9295111d0a8c0d6e65b\",\n    \"category\": \"good experience\",\n    \"summary\": \"Very good product, met expectations.\"\n  },\n  {\n    \"review_id\": \"f3401a1de0c152923ba58cf7b7d2b84a\",\n    \"category\": \"product quality\",\n    \"summary\": \"Protective cover quality below expectations.\"\n  },\n  {\n    \"review_id\": \"ef9ef383ff6625e8e118db388ad3420d\",\n    \"category\": \"product quality\",\n    \"summary\": \"Product appears better quality on the website.\"\n  }\n]"
+  },
+  {
+    "batch_start": 146,
+    "batch_end": 150,
+    "raw_output": "[\n  {\n    \"review_id\": \"5d6f9cddc8335878d8bf20c3bd4602e8\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product received on time, satisfied with quality, highly recommend.\"\n  },\n  {\n    \"review_id\": \"f4d74b17cd63ee35efa82cd2567de911\",\n    \"category\": \"product quality\",\n    \"summary\": \"Packaging was damaged but product remained intact.\"\n  },\n  {\n    \"review_id\": \"3a336941a21a96535c9b70e3d28be499\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product delivered early and met expectations.\"\n  },\n  {\n    \"review_id\": \"d31fe8f01470eff5b2a3668c9a328913\",\n    \"category\": \"good experience\",\n    \"summary\": \"Recommends product.\"\n  },\n  {\n    \"review_id\": \"f677a419ee4910ae12bf8cb73dc0d332\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Missing cables and manual.\"\n  }\n]"
+  },
+  {
+    "batch_start": 151,
+    "batch_end": 155,
+    "raw_output": "[\n  {\n    \"review_id\": \"2e21bb397364fa799a4a1609fd2e6e3b\",\n    \"category\": \"good experience\",\n    \"summary\": \"Great product arrived early.\"\n  },\n  {\n    \"review_id\": \"670e12015ba4dca0bc1d220aaf5c19f9\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product delivered on time and good.\"\n  },\n  {\n    \"review_id\": \"7cae6dc895e8f5238f2300e103742ce2\",\n    \"category\": \"product quality\",\n    \"summary\": \"Poor packaging caused damage; product not tested yet.\"\n  },\n  {\n    \"review_id\": \"5e5ae81fbed794a34c7b44744b168a5f\",\n    \"category\": \"other\",\n    \"summary\": \"Suggest using sedex instead of pac.\"\n  },\n  {\n    \"review_id\": \"af41ee42a3e2dc767023449fda6c12fa\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Order hasn't arrived after a month; will seek rights.\"\n  }\n]"
+  },
+  {
+    "batch_start": 156,
+    "batch_end": 160,
+    "raw_output": "[\n  {\n    \"review_id\": \"d28138dcbee5d50ca9dddb812d21ce85\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Missing instructions for bracelet replacement.\"\n  },\n  {\n    \"review_id\": \"cc4e1115d5c84efa5976f12404569949\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product met description and arrived early.\"\n  },\n  {\n    \"review_id\": \"07b48dbc11677f5021dbefcaba550ed2\",\n    \"category\": \"good experience\",\n    \"summary\": \"Early delivery and excellent service.\"\n  },\n  {\n    \"review_id\": \"4f2d420b33665f546c373953c8dfb5fd\",\n    \"category\": \"product quality\",\n    \"summary\": \"Poor material quality.\"\n  },\n  {\n    \"review_id\": \"bfd1c687738141ef5861a1a1269ca855\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Only one of two items delivered.\"\n  }\n]"
+  },
+  {
+    "batch_start": 161,
+    "batch_end": 165,
+    "raw_output": "[\n  {\n    \"review_id\": \"6724babb3b9952660bc345b5f5a4db07\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Customer unhappy with long delivery time and brand.\"\n  },\n  {\n    \"review_id\": \"c5efc0219f2949a8f81d5e8b39b9ca0c\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product received correctly.\"\n  },\n  {\n    \"review_id\": \"830cc72c5691e78c2cde500865e21e65\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product arrived on time, not yet used.\"\n  },\n  {\n    \"review_id\": \"8a310b56e4d05a7786d23986a1a49ae9\",\n    \"category\": \"good experience\",\n    \"summary\": \"Order arrived early, very good.\"\n  },\n  {\n    \"review_id\": \"d44b85fda6987ad606e1b7c62dd481e4\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product delivered as advertised.\"\n  }\n]"
+  },
+  {
+    "batch_start": 166,
+    "batch_end": 170,
+    "raw_output": "[\n  {\n    \"review_id\": \"5c1ba09de5c746017d406bd2cfefeca3\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Received only one piece, missing the second.\"\n  },\n  {\n    \"review_id\": \"5fb1fed9d3ca845936082614bd07cec2\",\n    \"category\": \"other\",\n    \"summary\": \"Mentions store number 10.\"\n  },\n  {\n    \"review_id\": \"700135724fcdc3170960fd95b8fb5904\",\n    \"category\": \"product quality\",\n    \"summary\": \"Guitar looks good but sticker color mismatched.\"\n  },\n  {\n    \"review_id\": \"b54c1776f5955ced2f54c711c665a025\",\n    \"category\": \"other\",\n    \"summary\": \"Invoice not provided.\"\n  },\n  {\n    \"review_id\": \"264527c876f418e7b43e09f0079942e2\",\n    \"category\": \"good experience\",\n    \"summary\": \"Arrived early and product excellent.\"\n  }\n]"
+  },
+  {
+    "batch_start": 171,
+    "batch_end": 175,
+    "raw_output": "[\n  {\n    \"review_id\": \"d6c0b888949f0c3f236d67f588913930\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review praising professionalism and recommending the store.\"\n  },\n  {\n    \"review_id\": \"f4d2c6ed9bebda9d41573e30f3d629b5\",\n    \"category\": \"product quality\",\n    \"summary\": \"MP3 player defective, had to return.\"\n  },\n  {\n    \"review_id\": \"91283389ca8846dd242990c799a85f5e\",\n    \"category\": \"good experience\",\n    \"summary\": \"Highly recommends product, very good.\"\n  },\n  {\n    \"review_id\": \"5159ec80ded330546c2f4a3d23c911d2\",\n    \"category\": \"good experience\",\n    \"summary\": \"Pre-workout product praised as very good.\"\n  },\n  {\n    \"review_id\": \"308400be88a43702db20fbb71b6cff74\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Shipping took a bit longer than expected.\"\n  }\n]"
+  },
+  {
+    "batch_start": 176,
+    "batch_end": 180,
+    "raw_output": "[\n  {\n    \"review_id\": \"557d0e6fe3a03460bb041cd5b3f7427d\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review praising service and product quality.\"\n  },\n  {\n    \"review_id\": \"513f392b12d02aef2c303846b4710eb6\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review about fast and smooth delivery.\"\n  },\n  {\n    \"review_id\": \"949127f36b466d3e93a6f3688062cd77\",\n    \"category\": \"good experience\",\n    \"summary\": \"Brief positive review, everything ok.\"\n  },\n  {\n    \"review_id\": \"341ccd0a62b82793121e9ebdd1eafaf9\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Complaint about non-delivery and false tracking.\"\n  },\n  {\n    \"review_id\": \"396ca63a1ddba5ae532c35316166b90f\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review about delivery and product quality.\"\n  }\n]"
+  },
+  {
+    "batch_start": 181,
+    "batch_end": 185,
+    "raw_output": "[\n  {\n    \"review_id\": \"6d1e743b69d68d1864f8cb45e74be0d2\",\n    \"category\": \"good experience\",\n    \"summary\": \"Excellent product, highly recommended.\"\n  },\n  {\n    \"review_id\": \"0272d07f5d34a8c3d31272e7ff967e7b\",\n    \"category\": \"product quality\",\n    \"summary\": \"Bag lacks lining and is fragile.\"\n  },\n  {\n    \"review_id\": \"320ae91d4c5cb8164c168fc68392a5fb\",\n    \"category\": \"product quality\",\n    \"summary\": \"Cartridge was empty, printer error, requested replacement.\"\n  },\n  {\n    \"review_id\": \"80d8874af03512892908e3910ca8ed00\",\n    \"category\": \"good experience\",\n    \"summary\": \"Very good product, recommended.\"\n  },\n  {\n    \"review_id\": \"6d7d0a5e33c92adf782b137720eeefa6\",\n    \"category\": \"product quality\",\n    \"summary\": \"Site excellent, but product is weak.\"\n  }\n]"
+  },
+  {
+    "batch_start": 186,
+    "batch_end": 190,
+    "raw_output": "[\n  {\n    \"review_id\": \"5f8ed42b9eee8adbd7344caca4ca507e\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive overall experience.\"\n  },\n  {\n    \"review_id\": \"e5a35475f7efa7f6abac5febba3fb464\",\n    \"category\": \"good experience\",\n    \"summary\": \"Satisfied with sbmarino.\"\n  },\n  {\n    \"review_id\": \"b92b5b1122f1298b87bc7882115db417\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Missing second leather cover.\"\n  },\n  {\n    \"review_id\": \"92e62e4f3ea203ac193f3271d85b11ea\",\n    \"category\": \"good experience\",\n    \"summary\": \"Liked the product.\"\n  },\n  {\n    \"review_id\": \"f922b9d00a755863556181c1a366193d\",\n    \"category\": \"wrong/missing item\",\n    \"summary\": \"Missing top sheet.\"\n  }\n]"
+  },
+  {
+    "batch_start": 191,
+    "batch_end": 195,
+    "raw_output": "[\n  {\n    \"review_id\": \"49f6f0bbf53f6d961deefc4d2fb0a6cd\",\n    \"category\": \"good experience\",\n    \"summary\": \"Headboard arrived early and looks beautiful.\"\n  },\n  {\n    \"review_id\": \"7c43af1205ff01c2b95065b2b02b3343\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Product delayed due to delivery confusion but eventually arrived.\"\n  },\n  {\n    \"review_id\": \"3140a4eb146655fe104d54d385f9e9a0\",\n    \"category\": \"other\",\n    \"summary\": \"Rating of 10 provided.\"\n  },\n  {\n    \"review_id\": \"6b15d200f47b4e13b03d237fd0b1894e\",\n    \"category\": \"good experience\",\n    \"summary\": \"Product liked, arrived on time, sellers praised.\"\n  },\n  {\n    \"review_id\": \"c25f2dc8ab33facf7a72f76c8a47d75a\",\n    \"category\": \"good experience\",\n    \"summary\": \"Excellent customer service.\"\n  }\n]"
+  },
+  {
+    "batch_start": 196,
+    "batch_end": 200,
+    "raw_output": "[\n  {\n    \"review_id\": \"fa82e03e20dd362ebe83572fc81398c7\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive feedback, liked the product.\"\n  },\n  {\n    \"review_id\": \"f8499130452fd0f108a9a24454f51c32\",\n    \"category\": \"product quality\",\n    \"summary\": \"Strap broke quickly, poor durability.\"\n  },\n  {\n    \"review_id\": \"72093b147d797e6abbdf569bf07bf57f\",\n    \"category\": \"good experience\",\n    \"summary\": \"Positive review of towel, very satisfied.\"\n  },\n  {\n    \"review_id\": \"4292f07bf6cb46aa563a430e6d9cf10b\",\n    \"category\": \"good experience\",\n    \"summary\": \"Early delivery and satisfied with product.\"\n  },\n  {\n    \"review_id\": \"1545c0d2c381662ba869e91e4c1aaca1\",\n    \"category\": \"late/not received\",\n    \"summary\": \"Awaiting delivery, no issues yet.\"\n  }\n]"
+  }
+]
